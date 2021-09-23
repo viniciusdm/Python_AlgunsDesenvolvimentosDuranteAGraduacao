@@ -1,0 +1,24 @@
+MÓDULOS NECESSÁRIOS:
+
+	numpy
+	math	
+	random
+
+-Caso deseje-se exibir os gráficos:
+
+	matplotlib.pyplot
+
+
+-O programa foi implementado em Python versão 3.8.3.
+
+
+-O programa conta com dois simples menus de escolha: um para o de testes e outro para o número de N's,
+caso o teste rodado seja o C ou o D. Em cada menu, deve-se digitar o número correspondente ao teste/N 
+que se procura rodar (Ex: 1 - teste A, digita-se 1). Caso contrário, o programa terminará sua execução.
+
+-Para rodá-lo, basta instalar os módulos necessários e rodar o arquivo EP2.py.
+
+-Caso deseje-se exibir os gráficos, é necessário descomentar a linha que chama a função "plota", dentro da
+função "erro". Ela está marcada por uma linha comentada.
+
+-O arquivo a ser lido chama-se "arquivo_texte_ep2.txt". Ele se encontra na pasta.
